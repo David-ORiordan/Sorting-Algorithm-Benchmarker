@@ -1,2 +1,2 @@
 # Sorting-Algorithm-Benchmarker
-Application which benchmarks a number of sorting algorithms
+Application that benchmarks a number of sorting algorithms
